@@ -109,7 +109,7 @@ const Section = () => {
                     stroke-linejoin="round"
                   />
                 </svg>
-                $300 - $400
+                $300k - $400k
               </span>
             </div>
           </div>
